@@ -24,8 +24,8 @@ Below is an outline illustrating the hierarchy of the folders and the files stor
 - `movie_review_sentiment_model.ipynb` – Code used to create the linear regression model
 
 **DATA/**  
-- `movie_data/` – Original dataset obtained from Kaggle (before cleaning)  
-- `movieData_cleaned/` – Cleaned version of the dataset for analysis
+- `movie_data.csv` – Original dataset obtained from Kaggle
+- `movieData_cleaned.csv` – Cleaned version of the dataset for analysis
 
 **OUTPUT/**  
 - `classification_report.txt` – Text report containing precision, recall, F1 score, and support  
