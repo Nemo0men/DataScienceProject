@@ -10,8 +10,7 @@ The software used for this project was Google Colab and Google Drive. The langua
 * kagglehub
 * textblob
 
-## Section 2: Map of your documentation
-Below is an outline illustrating the hierarchy of the folders and the files stored in each
+## Section 2: Map of the documentation
 
 **README.md**  
 - Overview of the project, software and platform used, documentation map, and instructions for reproducing results
