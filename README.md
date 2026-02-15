@@ -35,7 +35,7 @@ The software used for this project was Google Colab and Google Drive. The langua
 - `movie_sentiment_model.joblib` – Serialized machine learning model for predicting movie review sentiment
 
 **REFERENCES.md**  
-- References to the Kaggle site and other sources used
+- References to the Kaggle site 
 
 
 ## git pushing:
