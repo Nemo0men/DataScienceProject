@@ -26,7 +26,7 @@ The software used for this project was Google Colab and Google Drive. The langua
 - `movie_review_sentiment_model.ipynb` – Code used to create the linear regression model
 
 **DATA/**  
-- `movie_data.csv` – Original dataset obtained from Kaggle
+- `movie_data.md` – Instructions on how to obtain movie_data.csv file
 - `movieData_cleaned.csv` – Cleaned version of the dataset for analysis
 
 **OUTPUT/**  
@@ -38,7 +38,7 @@ The software used for this project was Google Colab and Google Drive. The langua
 - `movie_sentiment_model.joblib` – Serialized machine learning model for predicting movie review sentiment
 
 ## Section 3: Instructions for reproducing the results
-1. Download the movie_data.csv file
+1. Download the movie_data.csv file by following instructions on the movie_data.md
 2. Clean the data by running the code in the eda_movie_sentiment.ipynb file
 3. Save the new CSV file (should be the same as movieData_cleaned.csv)
 4. Perform the EDA by running the code in the eda_movie_sentiment.ipynb file
