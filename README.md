@@ -46,6 +46,7 @@ The software used for this project was Google Colab and Google Drive. The langua
 2. Clean the data by running the code in the eda_movie_sentiment.ipynb file
 3. Save the new CSV file (should be the same as movieData_cleaned.csv)
 4. Perform the EDA by running the code in the eda_movie_sentiment.ipynb file
-5. Create the linear regression model, plot it, and calculate the R^2 value by running the code in the eda_movie_sentiment.ipynb file
+5. Create the linear regression model and plot it by running the code in the eda_movie_sentiment.ipynb file
+6. Create the random forest and logistic regression model by running the code in the movie_review_sentiment_model.ipynb
 
 
