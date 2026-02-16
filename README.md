@@ -18,6 +18,9 @@ The software used for this project was Google Colab and Google Drive. The langua
 **LICENSE.md**  
 - Terms for citing and reproducing the repository
 
+**REFERENCES.md**  
+- References to the Kaggle and Rotten Tomatoes website
+
 **SCRIPTS/**  
 - `eda_movie_sentiment.ipynb` – Code used to perform exploratory data analysis (EDA)  
 - `movie_review_sentiment_model.ipynb` – Code used to create the linear regression model
@@ -33,6 +36,3 @@ The software used for this project was Google Colab and Google Drive. The langua
 - `score_distribution.png` – Histogram of normalized Rotten Tomato scores and frequency  
 - `score_polarity.png` – Histogram of polarity scores and frequency  
 - `movie_sentiment_model.joblib` – Serialized machine learning model for predicting movie review sentiment
-
-**REFERENCES.md**  
-- References to the Kaggle site 
