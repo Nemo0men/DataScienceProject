@@ -22,8 +22,8 @@ The software used for this project was Google Colab and Google Drive. The langua
 - References to the Kaggle and Rotten Tomatoes website
 
 **SCRIPTS/**  
-- `eda_movie_sentiment.ipynb` – Code used to perform exploratory data analysis (EDA)  
-- `movie_review_sentiment_model.ipynb` – Code used to create the linear regression model
+- `eda_movie_sentiment.ipynb` – Code used to clean data, perform exploratory data analysis (EDA), and create linear regression model  
+- `movie_review_sentiment_model.ipynb` – Code used to create model predicting positive or negative sentiment 
 
 **DATA/**  
 - `movie_data.md` – Instructions on how to obtain movie_data.csv file
